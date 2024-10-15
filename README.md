@@ -1,1 +1,1 @@
-TRIANGULATION
+Pour déterminer le lieu d'habitation d'un brigand à partir des positions de différents lieux de braquages, nous pouvons utiliser une approche simple. Supposons que le lieu d'habitation du brigand est le point moyen (centroïde) des positions des braquages.
